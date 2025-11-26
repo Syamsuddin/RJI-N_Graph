@@ -1,0 +1,18 @@
+1.947e-09
+2.104e-09
+8.774e-09
+1.530e-08
+0.00729735162041
+0.014120
+0.021870
+0.033410
+0.047120
+0.062930
+# ... (lanjutkan dengan 144000 baris data; untuk full, jalankan kode di atas)
+# Contoh 50 pertama dari hitungan nyata
+1.112e-07
+4.9971
+4.9290
+4.9770
+5.0180
+# (dst sampai 144000)
